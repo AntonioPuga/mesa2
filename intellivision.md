@@ -1,0 +1,4 @@
+# Intelevision
+The Intellivision is a home video game console released by Mattel Electronics in 1979. The name Intellivision is a portmanteau of "intelligent television". Development of the console began in 1977, the same year as the introduction of its main competitor, the Atari 2600.[11] In 1984 Mattel sold the Intellivision business to a former Mattel Electronics executive and investors that would become INTV Corporation. Games development started in 1978 and continued until 1990 when the Intellivision was discontinued. From 1980 to 1983 over 3 million Intellivision units were sold.[9][1][2][3]
+
+In 2009, video game website IGN named the Intellivision the No. 14 greatest video game console of all time.[12] It remained Mattel's only video game console until the release of the HyperScan in 2006.
